@@ -1,0 +1,182 @@
+{
+    "songLibrary\\505.mp3": {
+        "genres": [
+            1,
+            1,
+            1
+        ],
+        "moods": [
+            1,
+            1,
+            1
+        ]
+    },
+    "songLibrary\\DeepDeep.mp3": {
+        "genres": [
+            1,
+            16,
+            31
+        ],
+        "moods": [
+            5,
+            7,
+            18
+        ]
+    },
+    "songLibrary\\DejaVu.mp3": {
+        "genres": [
+            5,
+            2,
+            17
+        ],
+        "moods": [
+            1,
+            16,
+            28
+        ]
+    },
+    "songLibrary\\Dramaturgy.mp3": {
+        "genres": [
+            2,
+            29,
+            0
+        ],
+        "moods": [
+            1,
+            16,
+            28
+        ]
+    },
+    "songLibrary\\Duvet.mp3": {
+        "genres": [
+            16,
+            1,
+            15
+        ],
+        "moods": [
+            3,
+            6,
+            0
+        ]
+    },
+    "songLibrary\\Farewell.mp3": {
+        "genres": [
+            2,
+            29,
+            0
+        ],
+        "moods": [
+            1,
+            20,
+            25
+        ]
+    },
+    "songLibrary\\ICan'tHandleChange.mp3": {
+        "genres": [
+            16,
+            15,
+            32
+        ],
+        "moods": [
+            3,
+            15,
+            7
+        ]
+    },
+    "songLibrary\\IDon'tGiveaFuck.mp3": {
+        "genres": [
+            5,
+            19,
+            0
+        ],
+        "moods": [
+            21,
+            28,
+            5
+        ]
+    },
+    "songLibrary\\InAffliction.mp3": {
+        "genres": [
+            1,
+            7,
+            15
+        ],
+        "moods": [
+            5,
+            7,
+            8
+        ]
+    },
+    "songLibrary\\IntheWakeofEvolution.mp3": {
+        "genres": [
+            1,
+            8,
+            31
+        ],
+        "moods": [
+            2,
+            21,
+            10
+        ]
+    },
+    "songLibrary\\bedroomCommunity.mp3": {
+        "genres": [
+            1,
+            3,
+            15
+        ],
+        "moods": [
+            1,
+            10,
+            26
+        ]
+    },
+    "songLibrary\\freshStart.wav": {
+        "genres": [
+            15,
+            0,
+            0
+        ],
+        "moods": [
+            7,
+            8,
+            0
+        ]
+    },
+    "songLibrary\\holdensTrack.mp3": {
+        "genres": [
+            1,
+            0,
+            0
+        ],
+        "moods": [
+            6,
+            26,
+            0
+        ]
+    },
+    "songLibrary\\ilventod'oro.mp3": {
+        "genres": [
+            3,
+            4,
+            15
+        ],
+        "moods": [
+            1,
+            19,
+            24
+        ]
+    },
+    "songLibrary\\theStrain.mp3": {
+        "genres": [
+            1,
+            7,
+            16
+        ],
+        "moods": [
+            5,
+            10,
+            3
+        ]
+    }
+}
