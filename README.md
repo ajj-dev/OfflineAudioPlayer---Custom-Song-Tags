@@ -37,30 +37,42 @@ offlineAudioPlayer/
 ├── SongList.cpp/h        # Playlist management and shuffle algorithms
 ├── miniaudio.h           # Single-header audio library
 ├── songLibrary/          # Place your MP3/WAV files here
-└── songTags.json         # Auto-generated tag storage
+└── songTags.json         # Auto-generated tag storage (created on first run)
 ```
 
 ## Building
 
-### Windows (Visual Studio)
-
-1. Clone the repository
-2. Install dependencies via vcpkg or manually:
-   ```
-   vcpkg install imgui[core,glfw-binding,opengl3-binding] glfw3 taglib nlohmann-json
-   ```
-3. Open `offlineAudioPlayer.sln` in Visual Studio
-4. Build and run
-
-### Manual Setup
-
-Ensure you have:
-- C++17 or later
+Ensure you have the following installed:
+- C++17 or later compiler
 - GLFW3
 - OpenGL
 - TagLib
 - nlohmann/json
 - ImGui with GLFW and OpenGL3 backends
+
+### Installing Dependencies
+
+Using vcpkg (recommended):
+```bash
+vcpkg install imgui[core,glfw-binding,opengl3-binding] glfw3 taglib nlohmann-json
+```
+
+Or install manually through your system's package manager.
+
+### Compile and Run
+
+```bash
+# Compile (adjust flags/paths as needed for your system)
+g++ -std=c++17 main.cpp MusicPlayer.cpp Song.cpp SongList.cpp \
+    -lglfw -lGL -ltag -lpthread -ldl \
+    -I/path/to/imgui -I/path/to/imgui/backends \
+    /path/to/imgui/imgui*.cpp /path/to/imgui/backends/imgui_impl_glfw.cpp \
+    /path/to/imgui/backends/imgui_impl_opengl3.cpp \
+    -o audioPlayer
+
+# Run
+./audioPlayer
+```
 
 ## Usage
 
@@ -85,6 +97,10 @@ Rock, Pop, Jazz, Classical, Electronic, Hip-Hop, Metal, Folk, Blues, Reggae, Cou
 
 ### Moods (30 total)
 Energetic, Calm, Melancholic, Happy, Aggressive, Romantic, Dark, Ethereal, Joyful, Reflective, Hopeful, Nostalgic, Mysterious, Tense, Sad, Uplifting, Playful, Somber, Inspiring, Dreamy, Adventurous, Angry, Peaceful, Triumphant, Serene, Bittersweet, Suspenseful, Exciting, Chill, Haunting
+
+## License
+
+[Add your license here]
 
 ## Contributing
 
