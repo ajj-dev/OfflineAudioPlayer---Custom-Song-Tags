@@ -2,20 +2,20 @@
     "songLibrary\\505.mp3": {
         "genres": [
             1,
-            1,
-            1
+            0,
+            0
         ],
         "moods": [
-            1,
-            1,
-            1
+            3,
+            7,
+            0
         ]
     },
     "songLibrary\\DeepDeep.mp3": {
         "genres": [
             1,
-            16,
-            31
+            0,
+            0
         ],
         "moods": [
             5,
@@ -25,158 +25,290 @@
     },
     "songLibrary\\DejaVu.mp3": {
         "genres": [
-            5,
-            2,
-            17
+            0,
+            0,
+            0
         ],
         "moods": [
-            1,
-            16,
-            28
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\Dramaturgy.mp3": {
         "genres": [
-            2,
-            29,
+            0,
+            0,
             0
         ],
         "moods": [
             1,
-            16,
-            28
+            28,
+            16
         ]
     },
     "songLibrary\\Duvet.mp3": {
         "genres": [
-            16,
-            1,
-            15
+            0,
+            0,
+            0
         ],
         "moods": [
-            3,
-            6,
+            0,
+            0,
             0
         ]
     },
     "songLibrary\\Farewell.mp3": {
         "genres": [
-            2,
-            29,
+            0,
+            0,
             0
         ],
         "moods": [
-            1,
-            20,
-            25
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\ICan'tHandleChange.mp3": {
         "genres": [
-            16,
-            15,
-            32
+            0,
+            0,
+            0
         ],
         "moods": [
-            3,
-            15,
-            7
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\IDon'tGiveaFuck.mp3": {
         "genres": [
-            5,
-            19,
+            0,
+            0,
             0
         ],
         "moods": [
-            21,
-            28,
-            5
+            4,
+            0,
+            0
         ]
     },
     "songLibrary\\InAffliction.mp3": {
         "genres": [
-            1,
-            7,
-            15
+            0,
+            0,
+            0
         ],
         "moods": [
-            5,
-            7,
-            8
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\IntheWakeofEvolution.mp3": {
         "genres": [
-            1,
-            8,
-            31
+            0,
+            0,
+            0
         ],
         "moods": [
-            2,
-            21,
-            10
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\KICKBACK.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\KILLINGMYLOVE.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\MARLBOROCLUB.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\MILLIONDOLLARBABY.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\NoSurprises.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\RallyHouse.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\STAY.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\SouthernHostility.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\Spicy.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\TOTHEFLOWERS.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\TUNNELVISION.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\Twilight.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\bedroomCommunity.mp3": {
         "genres": [
-            1,
-            3,
-            15
-        ],
-        "moods": [
-            1,
-            10,
-            26
-        ]
-    },
-    "songLibrary\\freshStart.wav": {
-        "genres": [
-            15,
+            0,
             0,
             0
         ],
         "moods": [
-            7,
-            8,
-            0
-        ]
-    },
-    "songLibrary\\holdensTrack.mp3": {
-        "genres": [
-            1,
             0,
-            0
-        ],
-        "moods": [
-            6,
-            26,
+            0,
             0
         ]
     },
     "songLibrary\\ilventod'oro.mp3": {
         "genres": [
-            3,
-            4,
-            15
+            0,
+            0,
+            0
         ],
         "moods": [
-            1,
-            19,
-            24
+            0,
+            0,
+            0
+        ]
+    },
+    "songLibrary\\testFile.mp3": {
+        "genres": [
+            0,
+            0,
+            0
+        ],
+        "moods": [
+            0,
+            0,
+            0
         ]
     },
     "songLibrary\\theStrain.mp3": {
         "genres": [
-            1,
-            7,
-            16
+            0,
+            0,
+            0
         ],
         "moods": [
-            5,
-            10,
-            3
+            0,
+            0,
+            0
         ]
     }
 }
