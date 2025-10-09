@@ -98,10 +98,6 @@ Rock, Pop, Jazz, Classical, Electronic, Hip-Hop, Metal, Folk, Blues, Reggae, Cou
 ### Moods (30 total)
 Energetic, Calm, Melancholic, Happy, Aggressive, Romantic, Dark, Ethereal, Joyful, Reflective, Hopeful, Nostalgic, Mysterious, Tense, Sad, Uplifting, Playful, Somber, Inspiring, Dreamy, Adventurous, Angry, Peaceful, Triumphant, Serene, Bittersweet, Suspenseful, Exciting, Chill, Haunting
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
