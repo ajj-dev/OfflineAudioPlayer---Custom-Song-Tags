@@ -20,7 +20,6 @@ MusicPlayer::~MusicPlayer()
 
 void MusicPlayer::initialize()
 {
-    // Additional initialization if needed
     loadSongsFromDirectory(songDirectory);
     playlist.initializeQueue();
     playlist.loadTags("songTags.json");
@@ -28,12 +27,10 @@ void MusicPlayer::initialize()
 
 void MusicPlayer::update()
 {
-    // Put consistent checks here.
     if (isPlaying and !isPaused and (getPlaybackPosition() / getDuration()) >= 1.0f)
     {
         next();
     }
-    
 }
 
 void MusicPlayer::render()
@@ -322,7 +319,7 @@ void MusicPlayer::previous()
     // Stop and clean up the current sound
     ma_sound_uninit(&currentSound);
 
-    // Initialize the appropriate song (either current or previous)
+    // Initialize the appropriate song
     const Song& currentSong = playlist.getCurrentSong(currentSongIndex);
     ma_result result = ma_sound_init_from_file(&engine, currentSong.getFilePath().c_str(), MA_SOUND_FLAG_DECODE | MA_SOUND_FLAG_ASYNC, nullptr, nullptr, &currentSound);
     if (result != MA_SUCCESS)
